@@ -1,5 +1,3 @@
-console.log('Javascript file is loaded!  Billy was here!');
-
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
 const msg1 = document.querySelector('#msg1');
